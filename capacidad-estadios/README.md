@@ -6,7 +6,7 @@ LaLiga, Premier League, Bundesliga, Serie A y Ligue 1.
 
 ## 🔗 Ver gráfico interactivo
 
-[estadios-europa.github.io](https://elianet-cmoreno.github.io/capacidad-estadios)
+[estadios-europa.github.io](https://elianet-cmoreno.github.io/statics-to-web/capacidad-estadios/)
 
 ## ¿Qué muestra?
 
