@@ -54,7 +54,7 @@ No requiere instalación. Abre el archivo directamente en cualquier navegador mo
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/nombre-repositorio.git
+git clone https://github.com/elianet-cmoreno-repositorio.git
 
 # Abre el mapa
 open index.html
